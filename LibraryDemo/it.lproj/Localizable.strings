@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LibraryDemo
+
+  Created by fibbauru-14 on 23/03/19.
+  Copyright © 2019 FIB. All rights reserved.
+*/
+
+// Strings Comuns
+"<key>" = "<Tradução>";
+"Idade: " = "Idade: ";
